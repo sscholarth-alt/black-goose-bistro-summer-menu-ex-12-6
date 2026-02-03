@@ -9,7 +9,8 @@ body {
 
 h1 {
     font: bold 1.5rem "Marko One", Georgia, serif;
-    color: olivedrab
+    color: olivedrab;
+    text-shadow: .1em .1em .05em gainsboro;
 }
 
 h2 {
@@ -21,6 +22,7 @@ h2 {
 
 dt {
     font-weight: bold;
+    color: olivedrab;
 }
 
 strong {
@@ -62,4 +64,6 @@ h2 + p {
     text-align: center;
     font-style: italic;
 }
+
+
 
