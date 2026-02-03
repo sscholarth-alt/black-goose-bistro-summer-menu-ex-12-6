@@ -3,11 +3,13 @@ html {
 }
 
 body {
-    font-family: Verdana, sans-serif;
+    font-family: Georgia, serif;
+    line-height: 1.75;
 }
 
 h1 {
-    font: 400 2.5rem "Julius Sans One", Verdana, sans-serif;
+    font: bold 1.5rem "Marko One", Georgia, serif;
+    color: olivedrab
 }
 
 h2 {
@@ -49,7 +51,5 @@ p.warning {
     color: grey;
 }
 
-body {
-    font-family: Georgia, serif;
-    line-height: 1.75;
-}
+
+
