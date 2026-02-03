@@ -48,3 +48,8 @@ p.warning {
     font-style: italic;
     color: grey;
 }
+
+body {
+    font-family: Georgia, serif;
+    line-height: 1.75;
+}
