@@ -14,6 +14,9 @@ h1 {
 
 h2 {
     font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    color:cadetblue
 }
 
 dt {
@@ -29,7 +32,7 @@ dt strong {
 }
 
 #info {
-    color: rgb(51, 165, 165);
+    color: cadetblue;
 }
 
 #info p {
