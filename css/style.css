@@ -51,5 +51,7 @@ p.warning {
     color: grey;
 }
 
-
+h1, h2, #info {
+    text-align: center;
+}
 
